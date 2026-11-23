@@ -1,6 +1,6 @@
 # Hanzi Trainer privacy policy
 
-Last updated: 22 November 2026
+Last updated: 23 November 2026
 
 Hanzi Trainer stores your data on your device. We have no server for this app and we don't track your progress. There is no account, no advertising and no analytics of how you study.
 
@@ -42,7 +42,7 @@ Data on your device is protected by the device's app sandbox and screen lock. Co
 ## How long data is kept
 
 - Data on your device stays until you clear the app's data or uninstall the app.
-- A deleted deck or character is hidden, but its record can stay in the app's storage and in exported backups until then.
+- A deleted deck or character is hidden, but its record stays in the app's storage, and so in your phone's backups, until then. A backup you export after deleting it leaves it out, except for an anonymous record of your past reviews, so your statistics stay correct.
 - Backups made by your phone are kept as Google or Apple describe.
 - Purchase records are kept while they are needed to provide and restore purchases or as the law requires.
 - Emails you send us are kept as long as needed to answer you.
